@@ -1,0 +1,7 @@
+adapters/
+results.tsv
+run.log
+__pycache__/
+.venv/
+*.pyc
+.python-version
